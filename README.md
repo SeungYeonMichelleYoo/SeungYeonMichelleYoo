@@ -1,4 +1,3 @@
-<div align="center">
 # Introduction
 
 - 서버 개발자, UX/UI 디자이너와 협업해 본 경험이 있는 iOS 개발자입니다.
@@ -20,7 +19,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeonMichelleYoo&layout=compact)](https://github.com/SeungYeonMichelleYoo/github-readme-stats)
 
-</div>
 
 
 <!--

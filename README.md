@@ -1,4 +1,8 @@
-### Hi there 👋
+## Introduction
+
+서버 개발자, UX/UI 디자이너와 협업해 본 경험이 있는 iOS 개발자입니다.
+
+## Skill
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 

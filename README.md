@@ -15,8 +15,6 @@
 - 사용해본 오픈소스 라이브러리: IQKeyBoardManager, Realm, Alamofire/SwiftyJson 등
 
 
-# What I've learned
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeonMichelleYoo&layout=compact)](https://github.com/SeungYeonMichelleYoo/github-readme-stats)
 
 # Contact

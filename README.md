@@ -8,7 +8,8 @@
 # Skill
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-- 기술 스택: repository, 코드 베이스(snapkit), MVC, UIKit, AutoLayout 등
+- 기술 스택: 코드 베이스(Snapkit), MVC, UIKit, AutoLayout, Repository 등
+
 - 사용해본 오픈소스 라이브러리: IQKeyBoardManager, Realm, Alamofire/SwiftyJson 등
 
 

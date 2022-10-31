@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeonMichelleYoo&layout=compact)](https://github.com/SeungYeonMichelleYoo/github-readme-stats)
 
 # Contact
-<a href="https://www.linkedin.com/in/seungyeon-yoo-b07513117/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkeIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seungyeon-yoo-b07513117/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkeIn&logoColor=white"/></a> <a href="https://developer-michelle.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 
 

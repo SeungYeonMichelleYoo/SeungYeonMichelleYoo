@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/seungyeon-yoo-b07513117/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkeIn&logoColor=white"/></a>  <a href="https://developer-michelle.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 
-# Any Specials?
+# Others
 - Interested in Big data: 데이터분석준전문가(ADsP) 자격증(ADsP-028004135) 취득 2021.04
 
 

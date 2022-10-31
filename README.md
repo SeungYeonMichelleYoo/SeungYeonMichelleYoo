@@ -19,6 +19,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeonMichelleYoo&layout=compact)](https://github.com/SeungYeonMichelleYoo/github-readme-stats)
 
+# Contact
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkeIn&logoColor=white"/></a>&nbsp
+
 
 
 <!--

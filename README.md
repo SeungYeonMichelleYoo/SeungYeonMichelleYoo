@@ -17,8 +17,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeonMichelleYoo&layout=compact)](https://github.com/SeungYeonMichelleYoo/github-readme-stats)
 
+
 # Contact
 <a href="https://www.linkedin.com/in/seungyeon-yoo-b07513117/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkeIn&logoColor=white"/></a>  <a href="https://developer-michelle.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
+
+# Any Specials?
+- Love to communicate with people: Experienced an exchange student program at Bahçeşehir Üniversitesi
+- Interested in Big data: 데이터분석준전문가(ADsP) 자격증(ADsP-028004135) 취득 2021.04
 
 
 

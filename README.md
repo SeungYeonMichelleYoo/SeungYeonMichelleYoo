@@ -23,7 +23,6 @@
 
 
 # Any Specials?
-- Love to communicate with people: Experienced an exchange student program at Bahçeşehir Üniversitesi
 - Interested in Big data: 데이터분석준전문가(ADsP) 자격증(ADsP-028004135) 취득 2021.04
 
 

@@ -1,10 +1,12 @@
-## Introduction
+# Introduction
 
 서버 개발자, UX/UI 디자이너와 협업해 본 경험이 있는 iOS 개발자입니다.
 
-## Skill
+# Skill
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+
+# What I've learned
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeonMichelleYoo&layout=compact)](https://github.com/SeungYeonMichelleYoo/github-readme-stats)
 

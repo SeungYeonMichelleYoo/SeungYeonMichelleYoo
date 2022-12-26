@@ -13,7 +13,6 @@
 
 - 기술 스택: 코드 베이스(Snapkit), MVC, UIKit, AutoLayout, Repository 등
 - 사용해본 오픈소스 라이브러리: IQKeyBoardManager, Realm, Alamofire/SwiftyJson 등
-- 협업툴: Figma, Notion, Confluence 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeonMichelleYoo&layout=compact)](https://github.com/SeungYeonMichelleYoo/github-readme-stats)
@@ -25,6 +24,7 @@
 
 # Others
 - Interested in big data: 데이터분석준전문가(ADsP) 자격증(ADsP-028004135) 취득 2021.04
+- 협업툴: Figma, Notion, Confluence, Swagger 
 
 
 

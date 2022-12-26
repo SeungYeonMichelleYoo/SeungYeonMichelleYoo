@@ -23,7 +23,7 @@
 
 
 # Others
-- Interested in big data: 데이터분석준전문가(ADsP) 자격증(ADsP-028004135) 취득 2021.04
+- Interested in big data: 데이터분석준전문가 자격증(ADsP-028004135) 취득 2021.04
 - 협업툴: Figma, Notion, Confluence, Swagger 
 
 

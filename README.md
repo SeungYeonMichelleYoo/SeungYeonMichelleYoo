@@ -11,9 +11,6 @@
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
-- 기술 스택: Codebase(Snapkit), UIKit, UIStoryboard, Autolayout, UITableView, UICollectionView, Repository, WebKit, MapKit, StoreKit, Push Notification, MessageUI, UITabGestureRecognizer, Animation, Alamofire, SwiftyJSON, URLSession, SocketIO, Firebase Authentication, Firebase Analytics, Firebase Crashlytics, Firebase Cloud Messaging, Realm, CoreData 등
-- 사용해본 오픈소스 라이브러리: IQKeyBoardManager, Realm, Alamofire/SwiftyJson, URLSession, Kingfisher 등
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungYeonMichelleYoo&layout=compact)](https://github.com/SeungYeonMichelleYoo/github-readme-stats)
 

@@ -1,6 +1,6 @@
 # Introduction
 
-- 서버 개발자, UX/UI 디자이너와 협업해 본 경험이 있는 iOS 개발자입니다.
+- 서버 개발자, UX/UI 디자이너, 기획팀, 미디어엔진(ME)팀과 협업해 본 경험이 있는 iOS 개발자입니다.
 - SeSAC 2기 iOS 앱 개발자 데뷔 과정 (2022-07-04 ~ 2022-12-07) 참여
 - iPhone AppStore '셀프 정리의 달인' 개인앱 출시 (<a href="https://itunes.apple.com/app/id1645006071">앱 다운로드 바로가기</a>)
 
@@ -16,13 +16,13 @@
 
 
 # Contact
-<a href="https://www.linkedin.com/in/seungyeon-yoo-b07513117/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>  <a href="https://developer-michelle.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://developer-michelle.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 
 # Others
 - Interested in big data: 데이터분석준전문가 자격증(ADsP-028004135) 취득 2021.04
-- 협업툴: Figma, Notion, Confluence, Swagger 
-
+- 협업툴: Figma, Zeplin, Notion, Confluence, Swagger, GitLab, Sourcetree
+- Worked with over 10+ foreign countries in the trading field, experienced an exchanged student program in Turkey, like communicating with others
 
 
 <!--
